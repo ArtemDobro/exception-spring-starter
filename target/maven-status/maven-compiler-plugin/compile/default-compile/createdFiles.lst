@@ -1,0 +1,6 @@
+com\andersen\allianz\artiom\dto\IdDescriptionDto.class
+com\andersen\allianz\artiom\App.class
+com\andersen\allianz\artiom\config\StarterProperties.class
+com\andersen\allianz\artiom\service\ServiceException.class
+com\andersen\allianz\artiom\config\StarterConfiguration.class
+com\andersen\allianz\artiom\dto\ErrorDto.class
